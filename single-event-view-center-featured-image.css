@@ -1,0 +1,8 @@
+/* Center the featured image on all single event views. */
+
+.single-tribe_events .tribe-events-event-image {
+	display: block;
+	float: none;
+	width: 100%;
+	text-align: center;
+}
