@@ -1,0 +1,5 @@
+/* Hide the title bar and the month separator from the list view. */
+
+.tribe-events-title-bar, .tribe-events-list-separator-month {
+	display: none;
+}
