@@ -1,0 +1,5 @@
+/* Remove the featured image and event description from the list view. */
+
+.tribe-events-list-event-description, .tribe-events-event-image  {
+	display: none !important;
+}
